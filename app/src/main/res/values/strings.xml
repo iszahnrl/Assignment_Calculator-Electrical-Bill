@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Electrical Calculator</string>
+
+    <string name="electricity_output">Electricity Bill Amount: RM %s</string>
+    <string name="rebate_output">Rebate amount: RM %s</string>
+    <string name="final_cost_output">Final Cost: RM %s</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+
+    <string name="copyright"> Copyright © 2024 Nurul Izzah</string>
+
+
+
+
+</resources>

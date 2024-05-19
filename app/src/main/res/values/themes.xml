@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.ElectricCalculator" parent="Theme.MaterialComponents.DayNight">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">#B6592D</item>
+        <item name="colorPrimaryDark">#DA153D</item>
+        <!-- Add more customizations if needed -->
+    </style>
+</resources>
